@@ -13,20 +13,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them
 
-### Start Server
+### Running the tests
 
 This repo uses live server to run its test. To start:
 
 ```
 npm start
-```
-
-### Running the tests
-
-This repo uses Mocha and Chai to run its test. To start:
-
-```
-npm test
 ```
 
 ## Built With
