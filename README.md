@@ -3,7 +3,7 @@ This is a project I completed as a student at [hackreactor](http://hackreactor.c
 
 ## Goals
 
-* Devise an algorithm to solve the N-Quuen problem using JavaScript
+* Devise an algorithm to solve the N-Queens problem using JavaScript
 
 ## Getting Started
 
